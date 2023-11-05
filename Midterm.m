@@ -1,10 +1,3 @@
-%Question 1
-A = [0,1; 1,0];
-
-B = 2;
-C = A+B;
-C
-
 %Question 2
 syms x y z;
 
